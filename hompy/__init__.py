@@ -1,0 +1,1 @@
+from .numerical_homogenization import homogenize
