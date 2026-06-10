@@ -32,8 +32,6 @@ Primary references: Li et al. (2021), *Small* **17**, 2100336; Liu et al. (2022)
 .
 ├── README.md                     (this file)
 ├── requirements.txt              pinned dependencies
-├── pyproject.toml                package metadata (hompy, lattice); Python >= 3.11
-│
 ├── hompy/                        numerical homogenisation package
 ├── lattice/                      voxel generators (SC, FCC, FCC-face)
 ├── scripts/                      pipeline + analysis scripts (see §3)
